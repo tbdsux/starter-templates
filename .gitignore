@@ -1,1 +1,3 @@
-**/node_modules
+node_modules
+tailwind-starter/public/css/build.css
+express-tailwind/public/css/style.css
